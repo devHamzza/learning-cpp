@@ -63,7 +63,7 @@ int main()
 
     for (int i = 0; i < 11; ++i)
     {
-        cout << players[i].getName() << "'s turn:" << endl;
+        cout << i + 1 << ". " << players[i].getName() << endl;
         cout << "Scores per Ball: ";
         while (true)
         {
