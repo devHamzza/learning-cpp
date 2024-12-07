@@ -2,3 +2,4 @@
 *.txt
 *.text
 tempCodeRunnerFile.cpp
+!*.cpp
